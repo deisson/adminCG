@@ -1,1 +1,1 @@
-include ':adminApp'
+include ':adminApp', ':recetascg'
